@@ -1,6 +1,6 @@
 Take a look at this example from the facebook react docs:
 
-https://codepen.io/gaearon/pen/KgQpJd?editors=0010
+https://codepen.io/alexgriff/pen/VrxaZv?editors=0010
 
 A <Clock /> component is rendered to the DOM every second by calling ReactDOM.render in a callback to setTimeout. This works...
 

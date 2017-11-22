@@ -15,4 +15,4 @@ ReactDOM.render(
 ```
 "
 
-Use your knowledge of component *state* and with your group research two component *life cycle method* `componentDidMount` and `componentWillUnmount` to solve this challenge in a more sensible way
+Use your knowledge of component *state* and with your group research two component *life cycle methods* `componentDidMount` and `componentWillUnmount` to solve this challenge in a more sensible way
